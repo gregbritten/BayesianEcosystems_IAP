@@ -3,14 +3,21 @@ Notes and code for Bayesian ecosystem modeling IAP course
 
 ## Schedule
 **Session #1**: Jan 16
-	* Installing PyStan
-	* Introduce ecosystem equations
-	* Simulate from the ecosystem model
-	* Generate synthetic observations
-	* First fit of the model to data in Stan
+ * Installing PyStan
+ * Introduce ecosystem equations
+ * Simulate from the ecosystem model
+ * Generate synthetic observations
+ * First fit of the model to data in Stan
+ 
 **Session #2**: Jan 23
-	* How to plot and analyze output from a Bayesian analysis
-	* Analyze   
+ * How to plot and analyze output from a Bayesian analysis
+ * How to make Bayesian predictions from a Bayesian model
+ * Analyze how parameter and prediction uncertainty varies with size and dimension of observational dataset
+ 
+**Session #3**: Jan 30
+ * Extend the plankton ecosystem model to include a fish population
+ * Fit the model to plankton + fish populations
+ * Use the fitted model to make predictions (and quantify uncertainty!) about the amount of fishing the ecosystem can support
 
 ## Installing PyStan
 
