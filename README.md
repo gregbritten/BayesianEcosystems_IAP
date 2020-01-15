@@ -1,6 +1,17 @@
 # BayesianEcosystems_IAP
 Notes and code for Bayesian ecosystem modeling IAP course
 
+## Schedule
+**Session #1**: Jan 16
+	* Installing PyStan
+	* Introduce ecosystem equations
+	* Simulate from the ecosystem model
+	* Generate synthetic observations
+	* First fit of the model to data in Stan
+**Session #2**: Jan 23
+	* How to plot and analyze output from a Bayesian analysis
+	* Analyze   
+
 ## Installing PyStan
 
 If you are using Anaconda, it recommended that you first update conda by issuing
