@@ -11,7 +11,7 @@ Notes and code for Bayesian ecosystem modeling IAP course
  
 **Session #2**: Jan 23
  * How to plot and analyze output from a Bayesian analysis
- * How to make Bayesian predictions from a Bayesian model
+ * How to make predictions from a Bayesian model
  * Analyze how parameter and prediction uncertainty varies with size and dimension of observational dataset
  
 **Session #3**: Jan 30
